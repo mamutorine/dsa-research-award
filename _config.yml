@@ -1,6 +1,6 @@
 # Site settings
 title: DSA Research Award
-location: DSA Research Award
+location:
 safe: false
 description: "Information website."
 banner: dsa_banner.jpg
